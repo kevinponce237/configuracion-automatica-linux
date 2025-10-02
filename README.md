@@ -2,7 +2,7 @@
 
 ## 📖 Descripción del Proyecto
 
-Este proyecto es una **versión modificada** de un script originalmente creado por el **Director del Grado de la Carrera de Informática de la Universidad Europea del Atlántico**. El script original tenía como objetivo preconfigurar distribuciones Linux con herramientas básicas del sistema.
+Este proyecto es una **versión modificada** de un script originalmente creado por el **Director del Grado de la Carrera de Informática de la Universidad Europea del Atlántico Manuel Masias**. El script original tenía como objetivo preconfigurar distribuciones Linux con herramientas básicas del sistema.
 
 ### 🔧 Modificaciones y Mejoras
 
